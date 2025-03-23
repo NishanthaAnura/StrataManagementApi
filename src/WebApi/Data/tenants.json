@@ -1,0 +1,11 @@
+﻿{
+  "Tenants": [
+    {
+      "Id": "af0e324a-2db9-42e2-9bae-4d3a466786c7",
+      "Name": "Jane Smith",
+      "Contact": "jane.smith@example.com",
+      "BuildingId": "86d04b52-7172-4c8c-8031-0e46a57e7fdd",
+      "AssignedUnit": "101"
+    }
+  ]
+}

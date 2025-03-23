@@ -1,0 +1,13 @@
+﻿{
+  "MaintenanceRequests": [
+    {
+      "Id": "da0570ce-1e44-461d-b2e3-d139bbeb4f30",
+      "Title": "Leaky Faucet",
+      "Description": "The faucet in unit 101 is leaking.",
+      "Status": "Pending",
+      "BuildingId": "86d04b52-7172-4c8c-8031-0e46a57e7fdd",
+      "CreatedById": "af0e324a-2db9-42e2-9bae-4d3a466786c7",
+      "LastChangedTime": "2025-03-24T12:00:00Z"
+    }
+  ]
+}

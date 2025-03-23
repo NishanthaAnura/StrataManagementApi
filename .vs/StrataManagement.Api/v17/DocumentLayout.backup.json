@@ -1,0 +1,971 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\tenantresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\tenantresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\tenantrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\tenantrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\rolebasemaintenencerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\rolebasemaintenencerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\ownerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\ownerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\ownerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\ownerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\maintenanceuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\maintenanceuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\maintenanceupdatedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\maintenanceupdatedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\maintenancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\maintenancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\maintenancerequestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\maintenancerequestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\maintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\maintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\buildingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\buildingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\buildingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\buildingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\buildingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\buildingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\irepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\irepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\ibuildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\ibuildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\controllers\\maintenancerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\maintenancerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\maintenancerequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\maintenancerequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\dataaccess\\stratamanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\dataaccess\\stratamanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\maintenancerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\maintenancerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\maintenancerequestjsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\maintenancerequestjsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\data\\buildings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\data\\buildings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\serviceconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\serviceconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\imaintenancerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\imaintenancerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\services\\imaintenancerequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\services\\imaintenancerequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\itenantrepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\itenantrepositery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\repositories\\maintenancerequestjsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\repositories\\maintenancerequestjsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\data\\tenants.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\data\\tenants.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\data\\owners.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\data\\owners.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\utilities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\utilities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|c:\\git\\mbcm\\stratamanagementportal\\stratamanagement.api\\src\\webapi\\utilities\\mbcmid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\utilities\\mbcmid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 35,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepositery.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\IRepositery.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\IRepositery.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\IRepositery.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\IRepositery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:36:01.401Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BuildingRepository.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\BuildingRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\BuildingRepository.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\BuildingRepository.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\BuildingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:26:33.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BuildingService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\BuildingService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\BuildingService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\BuildingService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\BuildingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:06:24.325Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BuildingController.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\BuildingController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\BuildingController.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\BuildingController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\BuildingController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:17:08.225Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:29:13.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ServiceConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\ServiceConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\ServiceConfigurationExtensions.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\ServiceConfigurationExtensions.cs",
+              "RelativeToolTip": "src\\WebApi\\ServiceConfigurationExtensions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwJcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:09:18.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "buildings.json",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Data\\buildings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\Data\\buildings.json",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Data\\buildings.json",
+              "RelativeToolTip": "src\\WebApi\\Data\\buildings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T19:01:40.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\OwnerRepository.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\OwnerRepository.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\OwnerRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:02:47.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OwnerService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\OwnerService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\OwnerService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\OwnerService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\OwnerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:06:56.33Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\OwnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:20:29.46Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TenantRepository.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\TenantRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\TenantRepository.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\TenantRepository.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\TenantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:27:09.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\TenantService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\TenantService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\TenantService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\TenantService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwHMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:29:46.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\TenantController.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\TenantController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAApwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:32:31.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MaintenanceRequestJsonService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\MaintenanceRequestJsonService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\MaintenanceRequestJsonService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\MaintenanceRequestJsonService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\MaintenanceRequestJsonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:06:41.226Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StrataManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\DataAccess\\StrataManagementDbContext.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\DataAccess\\StrataManagementDbContext.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\DataAccess\\StrataManagementDbContext.cs",
+              "RelativeToolTip": "src\\WebApi\\DataAccess\\StrataManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:35:19.833Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.json",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T17:34:45.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MaintenanceRequestRepository.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\MaintenanceRequestRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\MaintenanceRequestRepository.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\MaintenanceRequestRepository.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\MaintenanceRequestRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAjwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:15:13.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MaintenanceRequestService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\MaintenanceRequestService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\MaintenanceRequestService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\MaintenanceRequestService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\MaintenanceRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:03:08.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MaintenanceRequestController.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\MaintenanceRequestController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\MaintenanceRequestController.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\MaintenanceRequestController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\MaintenanceRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:14:20.601Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBuildingService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\IBuildingService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\IBuildingService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\IBuildingService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\IBuildingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:19:48.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOwnerService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\IOwnerService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\IOwnerService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\IOwnerService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\IOwnerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:07:23.137Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITenantService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\ITenantService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\ITenantService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\ITenantService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\ITenantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:30:27.926Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuildingRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\BuildingRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\BuildingRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\BuildingRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\BuildingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:15:56.586Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OwnerResponse.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\OwnerResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\OwnerResponse.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\OwnerResponse.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\OwnerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:51:10.528Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TenantResponse.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\TenantResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\TenantResponse.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\TenantResponse.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\TenantResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:56:01.206Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:49:50.87Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OwnerRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\OwnerRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\OwnerRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\OwnerRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\OwnerRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:29:05.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaintenanceUserRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceUserRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\MaintenanceUserRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceUserRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\MaintenanceUserRequest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:43:20.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaintenanceStatus.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceStatus.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\MaintenanceStatus.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceStatus.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\MaintenanceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:20:55.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaintenanceUpdatedRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceUpdatedRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\MaintenanceUpdatedRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceUpdatedRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\MaintenanceUpdatedRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:58:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\Owner.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\Owner.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\Owner.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:21:40.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:52:43.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleBaseMaintenenceRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\RoleBaseMaintenenceRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\RoleBaseMaintenenceRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\RoleBaseMaintenenceRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\RoleBaseMaintenenceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:55:14.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\Tenant.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\Tenant.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\Tenant.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\Tenant.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:22:13.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TenantRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\TenantRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\TenantRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\TenantRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\TenantRequest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:30:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\UserRoles.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\UserRoles.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:37:02.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaintenanceRequestResponse.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceRequestResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\MaintenanceRequestResponse.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceRequestResponse.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\MaintenanceRequestResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:56:32.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MaintenanceRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\MaintenanceRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\MaintenanceRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\MaintenanceRequest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:20:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:19:40.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:19:01.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuildingResponse.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\BuildingResponse.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\BuildingResponse.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\BuildingResponse.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\BuildingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:51:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\Building.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\Building.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\Building.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:17:05.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "src\\WebApi\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:22:52.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IMaintenanceRequestRepository.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\IMaintenanceRequestRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\IMaintenanceRequestRepository.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\IMaintenanceRequestRepository.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\IMaintenanceRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:02:40.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IMaintenanceRequestService.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\IMaintenanceRequestService.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Services\\IMaintenanceRequestService.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Services\\IMaintenanceRequestService.cs",
+              "RelativeToolTip": "src\\WebApi\\Services\\IMaintenanceRequestService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:07:03.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IOwnerRepository.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\IOwnerRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\IOwnerRepository.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\IOwnerRepository.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\IOwnerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:33:28.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ITenantRepositery.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\ITenantRepositery.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\ITenantRepositery.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\ITenantRepositery.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\ITenantRepositery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:46:54.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T17:33:59.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T13:23:16.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "src\\WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "src\\WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T13:25:03.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MaintenanceRequestJsonRepository.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\MaintenanceRequestJsonRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Repositories\\MaintenanceRequestJsonRepository.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Repositories\\MaintenanceRequestJsonRepository.cs",
+              "RelativeToolTip": "src\\WebApi\\Repositories\\MaintenanceRequestJsonRepository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T02:21:04.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "owners.json",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Data\\owners.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\Data\\owners.json",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Data\\owners.json",
+              "RelativeToolTip": "src\\WebApi\\Data\\owners.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T04:11:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "tenants.json",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Data\\tenants.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\Data\\tenants.json",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Data\\tenants.json",
+              "RelativeToolTip": "src\\WebApi\\Data\\tenants.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T04:18:42.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Utilities\\Result.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Utilities\\Result.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Utilities\\Result.cs",
+              "RelativeToolTip": "src\\WebApi\\Utilities\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:02:28.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MbcmId.cs",
+              "DocumentMoniker": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Utilities\\MbcmId.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Utilities\\MbcmId.cs",
+              "ToolTip": "C:\\Git\\MBCM\\StrataManagementPortal\\StrataManagement.Api\\src\\WebApi\\Utilities\\MbcmId.cs",
+              "RelativeToolTip": "src\\WebApi\\Utilities\\MbcmId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:18:04.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
