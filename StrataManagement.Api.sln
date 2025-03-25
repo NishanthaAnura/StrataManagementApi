@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "src\WebApi\WebApi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrataManagementApi.Tests", "tests\StrataManagementApi.Tests\StrataManagementApi.Tests.csproj", "{A04D302C-77EB-4EFF-AABF-A28E44AEFF68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5236EFF5-A62B-4ED5-8F2B-7A4925B86F26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04D302C-77EB-4EFF-AABF-A28E44AEFF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04D302C-77EB-4EFF-AABF-A28E44AEFF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04D302C-77EB-4EFF-AABF-A28E44AEFF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04D302C-77EB-4EFF-AABF-A28E44AEFF68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1B0A04C3-E6BC-0FB7-7994-7C99BDAB1788} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A04D302C-77EB-4EFF-AABF-A28E44AEFF68} = {5236EFF5-A62B-4ED5-8F2B-7A4925B86F26}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4C2AF67C-C04C-4CD6-A5A5-86FE05E9F42A}

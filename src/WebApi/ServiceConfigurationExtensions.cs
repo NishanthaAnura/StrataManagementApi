@@ -149,7 +149,7 @@ public static class ServiceConfigurationExtensions
             Email = "adminak@mbcm.com",
             FullName = "Admin User"
         };
-        var result = await userManager.CreateAsync(adminUser, "Adminak@987");
+        var result = await userManager.CreateAsync(adminUser, "******");
         if (result.Succeeded)
         {
             await userManager.AddToRoleAsync(adminUser, UserRoles.Admin);
