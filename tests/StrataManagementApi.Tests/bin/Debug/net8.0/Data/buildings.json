@@ -1,0 +1,16 @@
+﻿{
+  "Buildings": [
+    {
+      "Id": "86d04b52-7172-4c8c-8031-0e46a57e7fdd",
+      "Name": "Sky Tower",
+      "Address": "123 Sky Lane",
+      "NumberOfUnits": 50
+    },
+    {
+      "Id": "828670c7-f1e1-44a2-9923-7a7bfb9d1f36",
+      "Name": "Ocean View",
+      "Address": "456 Ocean Drive",
+      "NumberOfUnits": 30
+    }
+  ]
+}

@@ -57,6 +57,10 @@ public class MaintenanceRequestController(IMaintenanceRequestService service) : 
     [HttpPut("{id}")]
     public async Task<IActionResult> Update(string id, MaintenanceUpdatedRequest request)
     {
+        if(request == null)
+        {
+            return BadRequest("Request is null");
+        }
         var result = await service.UpdateAsync(id, request);
         if (!result.IsSuccess)
         {
